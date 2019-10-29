@@ -1,0 +1,25 @@
+body{
+    background: rgba(0, 0, 0, 0.932);
+}
+h1{
+    font-size: 6mm;
+    color: blue;
+    
+}
+P{
+    font-size: 7mm
+    
+}
+p{
+    text-align: center;
+    color: white;
+
+
+}
+a:link{
+    color: blue;
+
+}
+a:hover{
+    color: white;
+}
